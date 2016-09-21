@@ -1,0 +1,80 @@
+lion
+le lion
+lioness
+la lionne
+lion cub
+le lionceau
+tiger
+le tigre
+tigress
+la tigresse
+bull elephant
+l'éléphant
+cow elephant
+l'éléphante
+elephant calf
+l'éléphanteau
+dog(m)
+le chien
+dog(f)
+la chienne
+puppy
+le chiot
+cat(m)
+le chat
+cat(f)
+la chatte
+kitten
+le chaton
+rabbit(m)
+le lapin
+rabbit(f)
+la lapine
+bunny
+le lapereau
+duck(m)
+le canard
+duck(f)
+la canne
+duckling
+le canneton
+rat(m)
+le rat
+rat(f)
+la ratte
+baby rat
+le raton
+frog
+la grenouille
+toad
+le crapaud
+salamander
+le salamandre
+bull
+le taureau
+cow
+la vache
+calf
+le veau
+rooster
+le coq
+hen
+la poule
+chick
+le poussin
+fish
+le poisson
+bear(m)
+l'ours
+bear(f)
+l'ourse
+whale
+la baleine
+bat
+la chauve souris
+wolf
+le loup
+mole
+la taupe
+horse
+le cheval
